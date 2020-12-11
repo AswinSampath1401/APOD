@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/APOD/static/css/main.ac885815.chunk.css",
+    "main.js": "/APOD/static/js/main.e271f3ec.chunk.js",
+    "main.js.map": "/APOD/static/js/main.e271f3ec.chunk.js.map",
+    "runtime-main.js": "/APOD/static/js/runtime-main.683941b8.js",
+    "runtime-main.js.map": "/APOD/static/js/runtime-main.683941b8.js.map",
+    "static/js/2.bc6cfc3e.chunk.js": "/APOD/static/js/2.bc6cfc3e.chunk.js",
+    "static/js/2.bc6cfc3e.chunk.js.map": "/APOD/static/js/2.bc6cfc3e.chunk.js.map",
+    "static/js/3.f80f3f9e.chunk.js": "/APOD/static/js/3.f80f3f9e.chunk.js",
+    "static/js/3.f80f3f9e.chunk.js.map": "/APOD/static/js/3.f80f3f9e.chunk.js.map",
+    "index.html": "/APOD/index.html",
+    "static/css/main.ac885815.chunk.css.map": "/APOD/static/css/main.ac885815.chunk.css.map",
+    "static/js/2.bc6cfc3e.chunk.js.LICENSE.txt": "/APOD/static/js/2.bc6cfc3e.chunk.js.LICENSE.txt",
+    "static/media/spin_wheel.0d136611.gif": "/APOD/static/media/spin_wheel.0d136611.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.683941b8.js",
+    "static/js/2.bc6cfc3e.chunk.js",
+    "static/css/main.ac885815.chunk.css",
+    "static/js/main.e271f3ec.chunk.js"
+  ]
+}
